@@ -1,0 +1,2 @@
+algum texto no arquivo para sha1
+adicionada esta linha após o primeiro hash sha1
